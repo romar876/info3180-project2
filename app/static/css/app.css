@@ -1,0 +1,171 @@
+body {
+    padding-top: 5rem;
+     background-image: url(/static/images/43.jpg);
+}
+
+.jumbotron{
+    background-color: white;
+    width:30em;
+    height: inherit;
+    
+}
+#headz{
+    color:red;
+}
+
+#profile{
+    width:inherit;
+    height:inherit;
+    padding-top:1em;
+}
+
+.logophoto{
+    border-radius: 50%;
+    width:4%; 
+    height:4%;
+}
+
+.explorer{
+    margin-top:5em;
+}
+.homelogo{
+    padding-left:8em;
+    margin-top:0em;
+}
+
+.font{
+    font-family: 'fantasy';
+    color: black;
+    padding-left:1%;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.user_post_img{
+    padding-left:5%; 
+    width:12%; 
+    height:12%;
+    margin-left:5px;
+}
+
+h5{
+    padding-left:5%;
+}
+
+.homelogoname{
+    font-size:48px;
+}
+
+.form{
+    position: relative;
+    top: 10em;
+    left: 20em;
+}
+
+
+.post_img{
+    width:100%;
+    height:100%;
+}
+.iconimage{
+    width:30px; 
+    height:30px;
+}
+
+.like_btn{
+    width:35px; 
+    height:35px;
+}
+
+
+.like_user{
+    margin-top:5px;
+    margin-left:2px;
+    font-weight: bold;
+}
+
+
+
+.postdate{
+    margin-top: 5px;
+    font-weight: bold;
+    padding-left:25px;
+}
+
+footer{
+    color: black;
+    font-family: 'fantasy';
+    font-size:36px;
+    font-weight: bolder;
+}
+
+
+
+.contentdisplay{
+    margin-top:10em; 
+    margin-left:5em;
+}
+.regular{
+    padding-left:30%;
+    padding-top:5%;
+}
+.shadow {
+    box-shadow: 5px 5px 25px #3598af;
+}
+
+.btn-success{
+    background-color: #6EBC07;
+}
+
+
+.btn-primary{
+    background-color:#0099CC;
+}
+
+.home_page_img{
+    width:inherit;
+    height:21em;
+}
+
+.follow{
+    padding-left:35%;
+    color:grey;
+}
+
+.posts{
+    padding-left:25%;
+    color:grey;
+}
+.colors{
+    color:black;
+    font-size:36px;
+}
+.followbutton{
+    padding-left:30%;
+}
+.homedisplay{
+    height:100%;
+}
+
+.postcaption{
+    margin-left:10px;
+}
+
+.input-group,.formlabel{
+    font-weight:bold;
+}
+
+.dispaly_img{
+    width:10em;
+    height:10em;
+    border-radius: 50%;
+}
+
+.photo_posts{
+    width:300px;
+    height:300px;
+}
+
+a{
+    color: blue;
+}
